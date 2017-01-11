@@ -1,0 +1,26 @@
+img {
+    width: 300px;
+}
+
+.fact {
+    font-style: italic;
+}
+
+span {
+    font-weight: 700;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.container {
+    border: 1px solid #000;
+    width: 300px;
+}
+
+.information {
+    border: 1px solid #000;
+}
+
